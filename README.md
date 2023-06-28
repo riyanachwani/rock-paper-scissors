@@ -1,7 +1,7 @@
 # rock-paper-scissors
 <h1 align="center">
   <a href="# Rock Paper Scissors"></a>
-  Calculator
+  Rock Paper Scissors
 </h1>
 
 ## `Project Title`
