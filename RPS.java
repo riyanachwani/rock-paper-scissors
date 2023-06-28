@@ -32,5 +32,6 @@ class RPS {
             System.out.println(computermove.equals("SCISSORS") ? "Computer Wins" : "Player wins");
         else
             System.out.println(computermove.equals("ROCK") ? "Computer Wins" : "Player wins");
+            sc.close();
     }
 }
