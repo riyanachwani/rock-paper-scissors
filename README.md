@@ -9,7 +9,7 @@ Rock Paper Scissors
 ## `Description`
 This Java program enables users to play a game of Rock Paper Scissors against the computer. The program determines the winner based on the game's rules and displays the result on the console.
 
-## `Features`
+## `Game Instructions`
 <li>Users can enter their choice (rock, paper, or scissors) through the console.</li>
 <li>The computer generates a random choice.</li>
 <li>The program determines the winner based on the rules of the game (rock beats scissors, paper beats rock, scissors beat paper) and displays the result on the console.</li>
