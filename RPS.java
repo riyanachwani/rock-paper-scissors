@@ -1,7 +1,5 @@
 import java.util.*;
-
 class RPS {
-
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter any one of the following inputs:  ");
